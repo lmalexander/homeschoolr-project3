@@ -38,7 +38,7 @@ so that I can MONITOR student progress remotely
 
 # Usage
 
-Parents and instructors can use this React application to view and manage work schedules for students, and send emails through the app to collaborate on assignments or request additional assistance. Instructors can view all students in a roster table, with a dropdown display showing individual student at-home work schedules. Parent can schedule periods of classwork during the day and create an individual schedule for their child.
+Parents and instructors can use this React application to view and manage work schedules for students, and send emails through the app to collaborate on assignments or request additional assistance. Instructors can view all students in a roster table, with a dropdown display showing individual student at-home work schedules. Parents can schedule periods of classwork during the day and create an individual schedule for their child.
 
 - Schedule views and interactions run in React Scheduler
 - Authentication with Passport and json web tokens, bcrypt for password hashing when stored in the database
@@ -73,7 +73,7 @@ This project was built using:
 
 # Collaborators
 
-FrontEnd
+Frontend
 - Liz Alexander
 - Yong Lee
 
